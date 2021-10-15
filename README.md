@@ -1,2 +1,2 @@
 # javaScript-OrientacaoAObjetos-Alura
-Orientacao a Objetos-Alura
+Curso de javaScript Orientação a Objetos da Alura
