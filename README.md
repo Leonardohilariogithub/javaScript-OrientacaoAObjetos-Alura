@@ -1,1 +1,2 @@
-# javaScript-Orienta-oAObjetos-Alura
+# javaScript-OrientacaoAObjetos-Alura
+Orientacao a Objetos-Alura
